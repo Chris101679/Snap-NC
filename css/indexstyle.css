@@ -1,0 +1,38 @@
+body {
+  /* background-image: url(https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/11012622_10206205012901654_357113263770944612_n.jpg?_nc_cat=0&oh=2b593e81e4545fa44118c4c6494781c8&oe=5B92F00C); */
+  background-size: cover;
+  /* background-position: center; */
+  font-family: lato;
+  color: black;
+  background-color: #5D6877;;
+}
+
+html {
+  height: 100%;
+}
+
+#content {
+  text-align: center;
+  padding-top: 5%;
+  /*text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+           0px 8px 13px rgba(0,0,0,0.1),
+           0px 18px 23px rgba(0,0,0,0.1);
+}*/
+
+h1 {
+  font-weight: 700;
+  font-size: 5em;
+  transform: uppercase;
+}
+
+hr {
+  width: 630px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+#header1 {
+  position: center;
+}
+
+
